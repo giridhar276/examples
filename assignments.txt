@@ -1,0 +1,89 @@
+write a program to capture any filename from keyboard( data.csv )
+and display filename and extension seperately.
+
+Enter any filename :  data.csv
+filename           :  data
+extension          :  csv
+----------------------------------------------
+write a program to capture the string and the output in terms of list.
+
+Enter any list :  perl,unix,spark,scala
+List output    :  ['perl','unix','spark','scala']
+Length of list :  4
+-----------------------
+name = "python is general purpose and python is interactive and python is cross 	platform language"
+-write a program to count all the occurences of python in the above string.
+-write a program to count all the no. of words in the above string.
+-convert the string to uppercase
+-replace python with spark and display the output
+-----------------------
+write a program to remove all the duplicates from the list
+alist = [10,20,10,20,30,40,50,20,30,40,60,70,80,10]
+
+Output :  [10,20,30,40,50,60,70,80]
+-----------------------
+write a program to read anyfile ( employees.log ) and convert its extension to
+employees.csv
+
+Enter any filename : employees.log
+new file           : employees.csv
+-----------------------
+
+write a program to create some empty list and perform the below operations.
+
+1. append 100 to the list
+2. append 60 to the list
+3. append 30 to the list
+4. append 1000 to the list
+5. extend the list with 90,3543,53,43,42,534,10,10,10,20
+6. remove the element 3543.
+7. pop the element which is at index 5.
+8. find the element at the index 6
+9. count the no. of occurences of the value 10 and display it.
+      
+-----------------------
+write a program to verify the file extension
+if file endswith .py display "python file"
+if file endswith .txt displya "text file"
+if file endswith .csv  display "csv file"
+if file endswith .pl   display "perl file"
+if file endswith .ksh  display "korn shell file"
+
+Enter any fileenmae:  hello.py
+Input file is python file
+
+Enter any filename : hello.c
+input file is C source file
+
+-----------------------
+write a program to capture string from keyboard and convert its case.
+
+If the string is defined is upper... convert to lower case.
+
+If the string is defined in lower ... convert to upperase .
+
+Enter any string : python
+PYTHON
+
+Enter any string : PYTHON PROGRAMING
+python
+
+----------------------------------------------
+
+write a program to capture any name from keyboard and perform the below operation.
+
+if length of the string is less than 10 ... string is too small
+if length of the string is greater than 30 .. string is too big.
+
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
